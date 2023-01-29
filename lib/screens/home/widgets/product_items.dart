@@ -8,9 +8,7 @@ class ProductItems extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ListView(
-      padding: const EdgeInsets.fromLTRB(10, 15, 10, 15),
-      shrinkWrap: true,
+    return Column (
       children: [
         GestureDetector(
           onTap: () {
