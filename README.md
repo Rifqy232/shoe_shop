@@ -1,16 +1,11 @@
-# final_project
+# Online Shoe Shop
 
-A new Flutter project.
+## Description
+This is a flutter project to create online shoe shop. There is 2 screen in this application which is home screen and detail screen.
 
-## Getting Started
+## Screenshot
+### Home Screen:
+<img width="203" alt="image" src="https://user-images.githubusercontent.com/101097294/215269527-b2fff080-d1e9-4290-897b-60dfc87842d3.png">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Detail Screen:
+<img width="204" alt="image" src="https://user-images.githubusercontent.com/101097294/215269584-8bf9ba3f-8307-4168-91dc-e401f0407163.png">
